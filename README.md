@@ -6,7 +6,7 @@
 
 ## Data Engineering:
 
-Using the ERD, the table schema for each of the six CSV files is created. All 6 CSV files are imported into the corresponding SQL table. 
+Using the ERD, the table schema for each of the six CSV files are created. All 6 CSV files are imported into their corresponding SQL table. 
 ## Data Analysis
 
 Once you have a complete database, do the following:
